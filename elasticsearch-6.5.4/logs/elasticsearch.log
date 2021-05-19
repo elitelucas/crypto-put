@@ -1,0 +1,4 @@
+[2021-01-05T01:30:00,001][INFO ][o.e.x.m.MlDailyMaintenanceService] [sdQF6hr] triggering scheduled [ML] maintenance tasks
+[2021-01-05T01:30:00,005][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [sdQF6hr] Deleting expired data
+[2021-01-05T01:30:00,019][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [sdQF6hr] Completed deletion of expired data
+[2021-01-05T01:30:00,019][INFO ][o.e.x.m.MlDailyMaintenanceService] [sdQF6hr] Successfully completed [ML] maintenance tasks
